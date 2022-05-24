@@ -1,3 +1,3 @@
 region = "us-east-2"
-label  = "hashicorp-for-fun"
+label  = "hashicorp"
 app    = "terramino"
